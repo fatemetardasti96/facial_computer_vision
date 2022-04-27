@@ -8,3 +8,8 @@ It could be used for detecting face and eyes either for a single image or track 
 python3 haarvj.py --video 0/1
 
 --video 1 gives the option to track ladmarks in a video
+
+
+## Test result
+
+haar_face_eye_detection.png
